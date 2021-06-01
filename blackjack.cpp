@@ -186,7 +186,7 @@ class end :public user
  	
  void gameend()   
  {
- cout<<"Thank you for playing!\n Made by:\nGaurav Raj-2K19/IT/052\nGaurav Kanojia- 2K19/IT/050";
+ cout<<"Thank you for playing!\n Made by:\nGaurav Raj-2K19/IT/052";
  }
  
  
